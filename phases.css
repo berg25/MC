@@ -1,0 +1,12 @@
+body{
+  background-color:#000000;
+  }
+
+  #phases{
+
+  text-align: center;
+  flex: column;
+  padding-top: 50px;
+  color:#ffffff;
+  font-size: 25px;
+}
